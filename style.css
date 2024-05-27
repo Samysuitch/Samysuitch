@@ -1,0 +1,12 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+.container{
+    display:flex;
+    justify-content: space-around;
+    color:grey;
+}
+h1{
+    background: linear-gradient(black blue);
+    text-align: center;
+}

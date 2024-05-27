@@ -1,0 +1,30 @@
+body{
+    background: url("barcelona.jpg");
+    background-size: cover;
+    color:blue;
+    height: 100%;
+    
+}
+#ss{
+    color:rgba(21, 23, 20, 0.148);
+    text-align: center;
+    text-shadow: 1 1 1;
+}
+.container{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    align-items: end;
+
+}
+.samy{
+    width: 300px;
+    height: 200px;
+}
+.logo{
+    width:300px ;
+    height:200px ;
+
+}
+
+
